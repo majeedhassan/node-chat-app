@@ -138,3 +138,15 @@ button:disabled{
     font-weight:300;
     padding:12px 24px 0
 }
+/* .chat__main.compose#chat-form#text-box{
+    width: 10px;
+    height: 15px;
+} */
+ #text-box{
+    width: 100px;
+    
+} 
+/* #chat-form{
+    width: 20px;
+    width: px;
+} */
